@@ -116,7 +116,7 @@ To setup Google Credentials in Google Cloud Platform visit:
 
 1. In the destination directory:
    ```bash
-    git clone https://github.com/KostasSar/G-loc.git 
+    git clone https://github.com/KostasSar/g-loc.git 
    ```
 
 1. Install dependencies from requirements.txt
