@@ -53,14 +53,15 @@ To work with Google’s API and services, install the Google API Client and Auth
 
 Run command:
 
-```bash
+```console
 pip install — upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
 
-To setup Google Credentials in Google Cloud Platform visit:
+To setup Google Credentials in Google Cloud Platform visit 
 
-    https://console.cloud.google.com/
+[Google's cloud console](https://console.cloud.google.com/)
 
+Then:
 1. Choose or create Project in Google Console
 1. Enable required Google API and Services.
 
@@ -165,6 +166,7 @@ optional arguments:
 
 ```
 
+For example:
 
 ```bash
 python g-loc.py -e saramedsoncruz@gmail.com
@@ -211,9 +213,9 @@ We only have her email: saramedsoncruz@gmail.com
 
 ### Manual Solution:
 
-1. No social media profiles at all. Some false positives unrelated to the challenge.
+1. A quick Google search gives no social media profiles at all. Only some false positives unrelated to the challenge.
 2. Using [Sherlock](https://github.com/sherlock-project/sherlock) social media finding tool got me some more false positives.
-3. Since only a google account was available, looked up in Google Maps "local guides" finder. But got no results.
+3. Since only a gmail was available, I looked up in Google Maps "local guides" finder. But got no results.
 4. Added Sara as a contact to get some more info but there are no google user profiles since G+ was taken down.
 5. The challenge's title refers to an ID link. Looked up for Google account IDs. 
 6. Inspecting the google contact card code, got a data person ID
@@ -249,7 +251,7 @@ We only have her email: saramedsoncruz@gmail.com
 ![Screenshot of script execution using saramedsoncruz@gmail.com as input](https://i.imgur.com/qhj14i3.png "Locating Sara.")
 
 1. Click on the Google Maps link
-1. Find the Gfootball museum review containing the flag.
+1. Find the football museum review containing the flag.
 
 1. Submit 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -275,6 +277,8 @@ Kostas Sarikioses
 - [Google Contact API integration with Python](https://towardsdev.com/google-contact-api-integration-with-python-f9777b97e51d) from [Liza Amatya](https://medium.com/@lizaamatya) for the documentation.
 
 - [HTB Challenge ID Exposed](https://app.hackthebox.com/challenges/id-exposed)
+
+- [Ascii Banner Generator](https://manytools.org/hacker-tools/ascii-banner/)
 
 ## License
 
