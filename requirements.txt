@@ -10,14 +10,14 @@ google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.5.1
 googleapis-common-protos==1.56.0
 httplib2==0.20.4
-idna==3.7
+idna==3.10
 isort==5.10.1
 lazy-object-proxy==1.7.1
 mccabe==0.7.0
 oauthlib==3.2.2
 pep8==1.7.1
 platformdirs==2.5.2
-protobuf==3.20.0
+protobuf==3.20.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pylint==2.13.5
@@ -29,5 +29,5 @@ six==1.16.0
 tomli==2.0.1
 typing_extensions==4.2.0
 uritemplate==4.1.1
-urllib3==1.26.9
+urllib3==1.26.19
 wrapt==1.14.0
