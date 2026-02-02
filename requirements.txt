@@ -17,7 +17,7 @@ mccabe==0.7.0
 oauthlib==3.2.2
 pep8==1.7.1
 platformdirs==2.5.2
-protobuf==4.25.8
+protobuf==6.33.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pylint==2.13.5
