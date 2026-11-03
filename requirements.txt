@@ -18,7 +18,7 @@ oauthlib==4.0.0
 pep8==1.7.1
 platformdirs==2.5.2
 protobuf==6.33.5
-pyasn1==0.6.4
+pyasn1==0.6.5
 pyasn1-modules==0.2.8
 pylint==4.0.9
 pyparsing==3.0.8
