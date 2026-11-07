@@ -14,7 +14,7 @@ idna==3.15
 isort==5.10.1
 lazy-object-proxy==1.7.1
 mccabe==0.7.0
-oauthlib==4.0.0
+oauthlib==4.0.1
 pep8==1.7.1
 platformdirs==2.5.2
 protobuf==6.33.5
